@@ -1,0 +1,15 @@
+*Shady Catalog File
+*********************************************
+*Latitude Longitude measured west in degrees
+COORDINATES 42.3672 71.01567 CSAIL
+*********************************************
+TIMEZONE -5
+*********************************************
+MONITOR .81 /* "Z" distance from Window Plane*/
+*********************************************
+ANGLE 155.307006156   /*from North*/
+*********************************************
+PROJECTION 3.54 1.49  /* X Y (meters)*/
+********************************************* 
+ELEVATION 14.3 /* from sea level (meters)*/
+*ELEVATION 146
