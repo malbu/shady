@@ -5,7 +5,7 @@ Returns alt-az and ra-dec coordinates. Based off VSOP087. J2000 epoch precessed 
 
 The calls that result in these outputs are:
 	myGeometry.calcSunRtAscension());
-	myGeometry.calcSunDeclination())
+	myGeometry.calcSunDeclination());
 	myGeometry.calcAzimuth());
 	myGeometry.calcAlt());
      
